@@ -1,27 +1,19 @@
 
-# **Book Dash, May 2025 Report**
+# Book Dash, May 2025 Report
 
-## **The Turing Way Book Dash, 15, 20-22 May: Overview and Report**
+## The Turing Way Book Dash, 15, 20-22 May: Overview and Report
 
 The Turing Way Book Dash events are a less intense version of Book Sprints, where participants collaboratively work on The Turing Way guides synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects. [Read more about The Turing Way Book Dash here]([https://the-turing-way.netlify.app/community-handbook/bookdash.html)](https://the-turing-way.netlify.app/community-handbook/bookdash.html))
 
-
-
-We are delighted to share that the eleventh Book Dash was hosted successfully on 15, 20 \& 21 May with 32 participants.
+We are delighted to share that the eleventh Book Dash was hosted successfully on 15, 20 & 21 May with 32 participants.
 
 Accepted participants, trainers and presenters in alphabetical order:
 
-
-
 Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yankam Mbouamba, Cecilia Baldoni, Chanju Park, Cyrille Brice Fomazou Tchinda, Denise Bianco, Emma Karoune(*), Esther Plomp(*), François Anicet Onana Akoa, Gigi Kenneth, Jim Madge, Johanna Bayer, Jyoti Bhogal, Léllé Demertzi(*), Liz Hare(*), Lucy Stephenson, Malvika Sharan, Moctar Gningue, Mouhamadou Lamine Daffe, Ngu Winston Asanga, Patricia Heterich(*), Precious Onyewuchi (*), Reshama Shaikh, Richard Acton, Sara Villa(*), Sarah Gibson, Saranjeet Kaur Bhogal, Sebastian Ayala Ruano, Serena Agbor, Seun Olufemi (*), 
-
-
 
 (*) May 2025 Book Dash Planning Committee members.
 
-## 
-
-## **Highlights**
+## Highlights
 
    * We hosted a virtual scavenger hunt where participants where given 5 minutes to grab items that address certain given categories. Points were allocated to the fastest participants, each item that ticked a category and most interesting items. Congratulations to Sara Villa and Richard Action for winning the scavenger hunt!
    * After many years inviting an illustrator from Scriberia to the Book Dash, we didn't have one in this edition.  This gave the opportunity to many contributors to focus on making our library of images more accessible, reviewing alt-texts, and making them searchable through key words. 
@@ -31,11 +23,7 @@ Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yank
    * Having a part of the Book Dash during Collaborations Workshop 25 gave us the opportunity to interact as an in-person hub and also promoted nice motivation for the online days the following week. 
 
 
-
-
-
-
-## **Book Dash Planning Committee - Done**
+## Book Dash Planning Committee
 
    * **Alexandra Araujo Alvarez** is the Senior Research Community Manager for BridgeAI, based at The Alan Turing Institute. She provided the Book Dash Planning Committee operational support.
    * **Anne Lee Steele** is the Research Community Manager of The Turing Way. She provided the Book Dash Planning Committee operational support during the planning process, coordinated the communications campaign, local hub in London, and supported the trainings before the event.
@@ -50,7 +38,7 @@ Alexandra Araujo Alvarez(*), Anne Lee Steele(*), Arielle Bennett(*), Brenda Yank
    * **Sara Villa** is a researcher and Senior Resident fellow at OLS. She is part of the Community Management working grout at The Turing Way and has a strong focus in Open Science training. 
 
 
-## **Format of the event **
+## Format of the event 
 
 The May 2025 edition of Book Dash featured 32 contributors, 14 committee members, 8 online working sessions, two social events, and two community share-outs. We used [the checklists]([https://github.com/the-turing-way/the-turing-way/issues/3367)](https://github.com/the-turing-way/the-turing-way/issues/3367)) for day/session leads to ensure the planning committee was prepared to host the event. 
 
@@ -60,7 +48,7 @@ This involved creating shared documents with all the information, embedding acce
 
 
 
-## **Application, Review and Selection process**
+## Application, Review and Selection process
 
 For the online part of the Book Dash taking place on 20-22 May, we followed a similar process as previous years. We invited applications through an open call where interested applicants could state their goals and interest in the Book Dash. Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process.
 
@@ -68,11 +56,9 @@ Applicants were asked to describe what they wanted to contribute to the Turing W
 
 The Book Dash Planning Committee used the rubrics to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
 
-This book dash, we had members of the Data Science Without Borders (DSWB) join the event. They went through similar application process as other applicants, with Precious, their community manager acting as a link between the Turing Way and DSWB, ensuring all information was passed and properly disseminated.
+This Book Dash, we had members of the Data Science Without Borders (DSWB) join the event. They went through similar application process as other applicants, with Precious, their community manager acting as a link between the Turing Way and DSWB, ensuring all information was passed and properly disseminated.
 
-## 
-
-## **Timeline **
+## Timeline 
 
    * Call for applications to join the Book Dash Planning Committee and local hub start date: 27 August 2024
    * Deadline to complete the Expression of Interest to Join The Turing Way Book Dash Committee and local hubs: 28 February
@@ -90,92 +76,72 @@ This book dash, we had members of the Data Science Without Borders (DSWB) join t
    * The Turing Way Book Dash Community Share-outs: 22 May, led by Emma, Arielle, Sara, Anne, Seun, Patricia and Léllé
    * Debrief planning committee: 9 June
    * Deadline progress report: 27 June
-## 
 
-## **GitHub activities: New and existing Pull Requests and Issues that attendees worked on - NEEDS UPDATING**
+## GitHub activities: New and existing Pull Requests and Issues that attendees worked on
 
 *for this section we need to look at the issues / PRs with the '0-book-dash-may-2025' tag (or opened during the Book Dash dates) - delete once completed*
 
-### **Issues**
+### Issues
 
-   * [https://github.com/the-turing-way/the-turing-way/issues/4236](https://github.com/the-turing-way/the-turing-way/issues/4236)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4234](https://github.com/the-turing-way/the-turing-way/issues/4234)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4233](https://github.com/the-turing-way/the-turing-way/issues/4233)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4226](https://github.com/the-turing-way/the-turing-way/issues/4226)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4209](https://github.com/the-turing-way/the-turing-way/issues/4209)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4193](https://github.com/the-turing-way/the-turing-way/issues/4193)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4189](https://github.com/the-turing-way/the-turing-way/issues/4189)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4177](https://github.com/the-turing-way/the-turing-way/issues/4177)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4182](https://github.com/the-turing-way/the-turing-way/issues/4182)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4183](https://github.com/the-turing-way/the-turing-way/issues/4183)
-   * [https://github.com/the-turing-way/the-turing-way/issues/4160](https://github.com/the-turing-way/the-turing-way/issues/4160)
-   * [https://github.com/the-turing-way/the-turing-way/issues/3367](https://github.com/the-turing-way/the-turing-way/issues/3367)
-   * [https://github.com/the-turing-way/the-turing-way/issues/3623](https://github.com/the-turing-way/the-turing-way/issues/3623)
-
-
-## **Pull requests**
-
-   * [https://github.com/the-turing-way/the-turing-way/pull/4260](https://github.com/the-turing-way/the-turing-way/pull/4260)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4238](https://github.com/the-turing-way/the-turing-way/pull/4238)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4213](https://github.com/the-turing-way/the-turing-way/pull/4213)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4210](https://github.com/the-turing-way/the-turing-way/pull/4210)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4207](https://github.com/the-turing-way/the-turing-way/pull/4207)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4203](https://github.com/the-turing-way/the-turing-way/pull/4203)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4202](https://github.com/the-turing-way/the-turing-way/pull/4202)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4197](https://github.com/the-turing-way/the-turing-way/pull/4197)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4167](https://github.com/the-turing-way/the-turing-way/pull/4167)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4224](https://github.com/the-turing-way/the-turing-way/pull/4224)
-   * [https://github.com/the-turing-way/the-turing-way/pull/4235](https://github.com/the-turing-way/the-turing-way/pull/4235)
+   * [Introduction to infectious disease modelling: a beginner’s guide](https://github.com/the-turing-way/the-turing-way/issues/4236)
+   * [Collaboration and Partnership with The Turing Way](https://github.com/the-turing-way/the-turing-way/issues/4234)
+   * [Self-Supervised Learning to Mitigate Bias in Automated Malaria Diagnosis](https://github.com/the-turing-way/the-turing-way/issues/4233)
+   * [Community-Centred Health Research Ethics](https://github.com/the-turing-way/the-turing-way/issues/4226)
+   * [Open Scholarship Chapter to include more information on Citizen Science](https://github.com/the-turing-way/the-turing-way/issues/4209)
+   * [Create a yaml Directory of Scriberia images with Alt-text and keywords/tags](https://github.com/the-turing-way/the-turing-way/issues/4193)
+   * [Roadmapping](https://github.com/the-turing-way/the-turing-way/issues/4189)
+   * [Deploy Portuguese book](https://github.com/the-turing-way/the-turing-way/issues/4177)
+   * [Adding Scriberia Images and alt text to the book - May 2025](https://github.com/the-turing-way/the-turing-way/issues/4182)
+   * [Pathway covering resources particularly relevant to AI/ML](https://github.com/the-turing-way/the-turing-way/issues/4183)
+   * [Book Dash application documentation in Community Book for multilingualism](https://github.com/the-turing-way/the-turing-way/issues/4160)
+   * [Book Dash Planning Committee Subchapter](https://github.com/the-turing-way/the-turing-way/issues/3367)
+   * [Add color palette to Style Guide](https://github.com/the-turing-way/the-turing-way/issues/3623)
 
 
-## **New and existing chapter updates**
+## Pull requests
 
-*This section looks at PRs that were merged during the Book Dash and provides a bit more detail on who works - delete once completed*
+   * [Community Centered Health Research Ethics](https://github.com/the-turing-way/the-turing-way/pull/4260)
+   * [Update open-scholarship to include more information on Citizen Science](https://github.com/the-turing-way/the-turing-way/pull/4238)
+   * [Adding new chapter on embedding data science](https://github.com/the-turing-way/the-turing-way/pull/4213)
+   * [Adding more Research community management personal stories](https://github.com/the-turing-way/the-turing-way/pull/4210)
+   * [WIP: add initial config info for images and alt text](https://github.com/the-turing-way/the-turing-way/pull/4207)
+   * [Add files via upload](https://github.com/the-turing-way/the-turing-way/pull/4203)
+   * [Add sections to roadmapping](https://github.com/the-turing-way/the-turing-way/pull/4202)
+   * [Update Book Dash documentation](https://github.com/the-turing-way/the-turing-way/pull/4197)
+   * [NEW CHAPTER - Adding Project Cycle](https://github.com/the-turing-way/the-turing-way/pull/4167)
+   * [Create an image gallery subchapter using a MyST Python executable plugin](https://github.com/the-turing-way/the-turing-way/pull/4224)
+   * [add contributor details](https://github.com/the-turing-way/the-turing-way/pull/4235)
+
+
+## New and existing chapter updates
 
 \_This section looks at chapters that were revised and updated during the May 2025 Book Dash. Other pull requests are still in progress.\_
 
-
-
-**Pathway curation**
-
+### Pathway curation
    * Community management pathways were curated by several members of the team and published during this event: CM Concepts ( [https://book.the-turing-way.org/pathways/pathways-community-management-concepts)](https://book.the-turing-way.org/pathways/pathways-community-management-concepts)) and CM How-to ([https://book.the-turing-way.org/pathways/pathways-community-management-operations)](https://book.the-turing-way.org/pathways/pathways-community-management-operations)). 
    * A new pathway on Data stewards was curated by Esther Plomp and added to the main list ([https://book.the-turing-way.org/pathways/pathways-data-stewards)](https://book.the-turing-way.org/pathways/pathways-data-stewards)). 
 
+* Precious Onyewuchi created case studies for the** pathway creation chapter **([https://book.the-turing-way.org/community-handbook/pathways/pathways-example)](https://book.the-turing-way.org/community-handbook/pathways/pathways-example)) .
 
-Precious Onyewuchi created case studies for the** pathway creation chapter **([https://book.the-turing-way.org/community-handbook/pathways/pathways-example)](https://book.the-turing-way.org/community-handbook/pathways/pathways-example)) .
+### Project Management Frameworks Overview
 
+* Arielle Bennett reviewed and completed a chapter on project management frameworks ([https://book.the-turing-way.org/project-design/project-management-methodologies/overview)](https://book.the-turing-way.org/project-design/project-management-methodologies/overview))
 
+### Research Community Management
+* Emma Karoune updated the Research Community Management chapter ([https://book.the-turing-way.org/collaboration/research-infrastructure-roles/community-manager)](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/community-manager)) 
 
-**Project Management Frameworks Overview**
-
-Arielle Bennet reviewed and completed a chapter on project management frameworks ([https://book.the-turing-way.org/project-design/project-management-methodologies/overview)](https://book.the-turing-way.org/project-design/project-management-methodologies/overview))
-
-
-
-Emma Karoune updated the Research Community Management chapter ([https://book.the-turing-way.org/collaboration/research-infrastructure-roles/community-manager)](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/community-manager)) 
-
-
-
-
-
-
-
-## **Our attendees also led and participated in the following social sessions:** 
+## Our attendees also led and participated in the following social sessions: 
 
    * Patricia Herterich led on a virtual scavenger hunt. 
    * Sara Villa and Lelle Demertzi led the 'Show and Tell' lunch session.
    *  Two Community Share-outs were hosted by Emma, Lelle, Patricia, Arielle, and Liz, where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
-## 
 
-### **Feedback**
 
-*This section copies across from *[https://annuel2.framapad.org/p/ttw-bookdash-may25-feedback](*https://annuel2.framapad.org/p/ttw-bookdash-may25-feedback*)* and incorporates our discussions from the final planning committee meeting- delete once completed*
+### Feedback
 
 At the end of the event, we asked our participants to share feedback anonymously in the “Pluses and Deltas”. We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
 
-### 
-
-### **Pluses** 
+### Pluses
 
    * Participants found the two-day online event energetic, inclusive, and well-organized. 
    * Social activities, particularly the scavenger hunt, were highly enjoyable and helped build a friendly, welcoming atmosphere. 
@@ -183,8 +149,7 @@ At the end of the event, we asked our participants to share feedback anonymously
    * Attendees valued the focus on improving existing resources, especially around images and accessibility, rather than starting new projects. 
    * Overall, the event provided strong support, opportunities to both give and receive help, and an enjoyable, productive environment.
 
-
-### **Deltas**
+### Deltas
 
    * Participants highlighted the need for greater inclusivity, particularly for those with limited internet access or who prefer languages other than English. Suggestions included collecting preferred language data at registration and integrating onboarding with the translation working group.
    * Some felt the shorter event format limited the ability to contribute more substantial work, especially for those in facilitation roles who had less time to actively participate. 
@@ -192,22 +157,18 @@ At the end of the event, we asked our participants to share feedback anonymously
    * There was a desire for earlier and broader communication, especially via social media, to increase awareness and participation. 
    * Attendees also missed elements like the Scriberia illustrator and in-person interactions, though some found they were more productive in the virtual format
 
-
-## **Changes Suggested for future Book Dashes**
+## Changes Suggested for future Book Dashes
 
    * Collecting preferred language data at registration and onboarding with the translation working group, if possible.
    * For planning committee members, clarify that their contributions this time will be more related to coordinations and facilitation than new chapters to the book or invite more hosts to be part of the facilitation session
    * Keep the shorter version of the Book dash, as it allows people to focus more on their contributions without getting burnout. 
 
-
-### **Follow up actions**
+### Follow up actions
 
    * In the registration form, to join the November's Book Dash, add a question about the preferred language and highlight that we will try to invite team members from the translation team for the onboarding session
    * Recruit facilitators for Book Dash sessions to allow planning committee members to have more time for their work contributions
 
 
-
-
-## **May 2025 Book Dash Links - NEEDS UPDATING [Léllé]**
+## May 2025 Book Dash Links - NEEDS UPDATING [Léllé]
 
 - [Registration Form - General]([https://forms.gle/YXfdFLTqwc5YS59DA)](https://forms.gle/YXfdFLTqwc5YS59DA))    - [Aplicacion en español]([https://forms.gle/YXfdFLTqwc5YS59DA)](https://forms.gle/YXfdFLTqwc5YS59DA))    - [Video: Book Dash Application Walk-Through]([https://www.youtube.com/watch?v=ZG-KxZzOGXo)](https://www.youtube.com/watch?v=ZG-KxZzOGXo))    - [Video: Book Dash Tips for applying]([https://www.youtube.com/watch?v=yM2890OCOKk)-](https://www.youtube.com/watch?v=yM2890OCOKk)-) [Call for local hub hosts]([https://forms.gle/BcLEkf7y31URoxNr6)-](https://forms.gle/BcLEkf7y31URoxNr6)-) [Expression of Interest to Join The Turing Way Book Dash Committee]([https://forms.gle/YNUj7pqzabtHCimK8)-](https://forms.gle/YNUj7pqzabtHCimK8)-) [Registration Form - TUDelft]([https://forms.gle/oWumSxgQi3pDJMHbA)-](https://forms.gle/oWumSxgQi3pDJMHbA)-) [Start Page]([https://ttw-book-dash-nov24.start.page/)](https://ttw-book-dash-nov24.start.page/))    - [Pre-Book Dash Drop-in Office Hours]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-office-hours)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-office-hours)) (24 Oct \& 1 Nov)    - [Onboarding call notes]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-onboarding)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-onboarding)) (22 \& 23 Oct)    - [GitHub Skill-up Session]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-github)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-github)) (28 Oct)    - [Day 1, 4 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day1)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day1))    - [Day 2, 5 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day2)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day2))    - [Day 3, 6 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day3)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day3))    - [Day 4, 7 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day4)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day4))    - [Day 5, 8 Nov]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-day5)](https://annuel2.framapad.org/p/ttw-bookdash-nov24-day5))        - [Sign-ups to Join Community Share-outs]([https://forms.gle/tAzefFkZJasgvfN28)](https://forms.gle/tAzefFkZJasgvfN28))    - [Post-event feedback]([https://annuel2.framapad.org/p/ttw-bookdash-nov24-feedback)-](https://annuel2.framapad.org/p/ttw-bookdash-nov24-feedback)-) [Reports from the previous events]([https://github.com/the-turing-way/book-dash)](https://github.com/the-turing-way/book-dash))
